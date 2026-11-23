@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Task1/Task1.csproj" />
+  <Project Path="Task2WF/Task2WF.csproj" />
+  <Project Path="Task3WF/Task3WF.csproj" />
+  <Project Path="Task4/Task4.csproj" />
+  <Project Path="WF/WF.csproj" />
+</Solution>
